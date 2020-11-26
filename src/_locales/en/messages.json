@@ -1,0 +1,31 @@
+{
+	"pluginTitle": {
+		"message": "React ext template",
+		"description": ""
+	},
+
+	"extDescription": {
+		"message": "React ext template",
+		"description": ""
+	},
+
+	"mainPageTitle": {
+		"message": "This is main page",
+		"description": ""
+	},
+
+	"profilePageTitle": {
+		"message": "This is profile page",
+		"description": ""
+	},
+
+	"mainPageLink": {
+		"message": "Main",
+		"description": ""
+	},
+
+	"profilePageLink": {
+		"message": "Profile",
+		"description": ""
+	}
+}

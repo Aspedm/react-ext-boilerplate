@@ -1,0 +1,40 @@
+{
+    "manifest_version": 2,
+    "name": "React ext template",
+    "description": "__MSG_extDescription__",
+    "default_locale": "en",
+    "version": null,
+    "author": "aspedm@gmail.com",
+    "minimum_chrome_version": "76",
+    "homepage_url": "https://home-page.net",
+    "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+    "icons": {
+        "16": "icons/16x16.png",
+        "48": "icons/48x48.png",
+        "128": "icons/128x128.png"
+    },
+    "permissions": [],
+
+    "browser_action": {
+        "default_title": "React ext template",
+        "default_popup": "popup.html",
+        "default_icon": "icons/48x48.png"
+    },
+    "background": {
+        "scripts": [
+            "browser-polyfill.js",
+            "background.js"
+        ]
+    },
+    "options_ui": {
+        "page": "options.html",
+        "chrome_style": true
+    },
+    "content_scripts": [
+		{
+			"js": ["pikachu.js"],
+			"matches": ["*://*/*"]
+		}
+	]
+}
+  
