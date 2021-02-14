@@ -1,5 +1,10 @@
 # CHANGELOG.md
 
+## 0.0.2
+
+- 🛠 Remove project specific interfaces from store
+- 🐞 Get plugin name and default popup title from locale
+
 ## 0.0.1
 
 - 🔥 Release
