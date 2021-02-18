@@ -47,7 +47,3 @@ yarn build:dev
 ```sh
 yarn clean && yarn build:prod && yarn build:zip
 ```
-
-## Credits
-A big thanks to:
-- [Web-Extension-Starter](https://github.com/ymdevs/Web-Extension-Starter) - For inspiration, previous version was based on Vue.js. And locate content scripts. 
