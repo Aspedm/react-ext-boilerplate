@@ -1,5 +1,10 @@
 # CHANGELOG.md
 
+## 0.0.3
+
+- 💄 Improved design and example code
+- 💄 Remove extra code which could be confusing
+
 ## 0.0.2
 
 - 🛠 Remove project specific interfaces from store

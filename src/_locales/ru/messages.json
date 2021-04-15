@@ -9,23 +9,28 @@
 		"description": ""
 	},
 
-	"mainPageTitle": {
-		"message": "Главная страница",
+	"main__message_1": {
+		"message": "Отредактируйте",
 		"description": ""
 	},
 
-	"profilePageTitle": {
-		"message": "Страница профиля",
+	"main__message_2": {
+		"message": "и сохраните чтобы увидеть изменения.",
 		"description": ""
 	},
 
-	"mainPageLink": {
-		"message": "Главная",
+	"main__example_link": {
+		"message": "Пример навигации",
 		"description": ""
 	},
 
-	"profilePageLink": {
-		"message": "Профиль",
+	"profile__message": {
+		"message": "Ниже пример работы с внешним API, загружается профиль с github.",
+		"description": ""
+	},
+
+	"profile__back": {
+		"message": "Назад",
 		"description": ""
 	}
 }

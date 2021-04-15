@@ -9,23 +9,28 @@
 		"description": ""
 	},
 
-	"mainPageTitle": {
-		"message": "This is main page",
+	"main__message_1": {
+		"message": "Edit",
 		"description": ""
 	},
 
-	"profilePageTitle": {
-		"message": "This is profile page",
+	"main__message_2": {
+		"message": "and save to reload.",
 		"description": ""
 	},
 
-	"mainPageLink": {
-		"message": "Main",
+	"main__example_link": {
+		"message": "Example navigation",
 		"description": ""
 	},
 
-	"profilePageLink": {
-		"message": "Profile",
+	"profile__message": {
+		"message": "This is example how to work with external api. Ex. github api",
+		"description": ""
+	},
+
+	"profile__back": {
+		"message": "Back",
 		"description": ""
 	}
 }
